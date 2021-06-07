@@ -1,0 +1,2 @@
+rootProject.name = "Retrofit-Sample-Java"
+include ':app'
